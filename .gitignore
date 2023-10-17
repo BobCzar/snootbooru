@@ -1,7 +1,6 @@
 # User-specific configuration
 config.yaml
 .env
-docker-compose.yaml
 
 # Client Development Artifacts
 */*_modules/
