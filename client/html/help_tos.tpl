@@ -15,21 +15,25 @@ the Site.</p>
     <li>You will not spam, troll or offend anyone.</li>
     <li>You accept that the Site is not liable for any content that you may
     stumble upon.</li>
+    <li>Content should be related to Snoot Game and related media (Goodbye
+    Volcano High, I Wani Hug That Gator, associated mods and OCs).</li>
 </ul>
 
 <p class='section' id='section-prohibited-content'><strong>Prohibited content</strong></p>
 
 <ul>
-    <li>Child pornography: any photograph or photorealistic drawing or movie
-    that depicts children in a sexual manner. This includes nudity, explicit
-    sex, implied sex, or sexually persuasive positions.</li>
+    <li>Child pornography: any image, drawing, or movie
+    that depicts children in a sexual manner. This includes (but is not limited to):
+    nudity, explicit sex, implied sex, sexually persuasive positions, lolicon, shotacon.</li>
 
-    <li>Bestiality: any photograph or photorealistic drawing or movie that
+    <li>Bestiality: any image, drawing or movie that
     depicts humans having sex (either explicit or implied) with other non-human
     animals.</li>
 
-    <li>Any depiction of extreme mutilation, extreme bodily distension,
-    feces.</li>
+    <li>Any depiction of deviant fetishes, such as extreme mutilation, extreme bodily 
+    distension, feces, vore, or incest.</li>
+
+    <li>Any content intended to dox or harass any user, person, or organization.</li>
 
     <li>Personal images: any image that is suspected to be uploaded for
     personal use. This includes, but is not limited to, avatars and forum
