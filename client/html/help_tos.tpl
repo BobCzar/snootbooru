@@ -10,34 +10,29 @@ the Site.</p>
     content you have posted to the site.</li>
     <li>The Site reserves the right to change these Terms of Service without
     prior notice.</li>
+    <li>You will not post any prohibited content.</li>
     <li>If you are a minor, then you will not use the Site.</li>
     <li>You are using the Site only for personal use.</li>
     <li>You will not spam, troll or offend anyone.</li>
     <li>You accept that the Site is not liable for any content that you may
     stumble upon.</li>
-    <li>Content should be related to Snoot Game and related media (Goodbye
-    Volcano High, I Wani Hug That Gator, associated mods and OCs).</li>
 </ul>
 
 <p class='section' id='section-prohibited-content'><strong>Prohibited content</strong></p>
 
 <ul>
-    <li>Child pornography: any image, drawing, or movie
-    that depicts children in a sexual manner. This includes (but is not limited to):
-    nudity, explicit sex, implied sex, sexually persuasive positions, lolicon, shotacon.</li>
+    <li>Content that is not related to Snoot Game or related media (I Want Hug That Gator,
+    Goodbye Volcano High, OCs, mods, or other fanworks). Exit 665 is not considered Snoot-
+    related media.
 
-    <li>Bestiality: any image, drawing or movie that
-    depicts humans having sex (either explicit or implied) with other non-human
-    animals.</li>
+    <li>Child pornography: any image, drawing, or movie that depicts children in a sexual
+    manner. This includes (but is not limited to): nudity, explicit sex, implied sex, 
+    sexually persuasive positions, lolicon, shotacon.</li>
 
-    <li>Any depiction of deviant fetishes, such as extreme mutilation, extreme bodily 
-    distension, feces, vore, or incest.</li>
+    <li>Any depiction of extreme fetishes. This includes (but is not limited to): guro, 
+    scat, bestiality, vore.</li>
 
     <li>Any content intended to dox or harass any user, person, or organization.</li>
-
-    <li>Personal images: any image that is suspected to be uploaded for
-    personal use. This includes, but is not limited to, avatars and forum
-    signatures.</li>
 </ul>
 
 <p class='section' id='section-privacy-policy'><strong>Privacy policy</strong></p>
