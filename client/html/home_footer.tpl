@@ -3,5 +3,5 @@
     </span><li><%= ctx.makeFileSize(ctx.diskUsage) %></li><span class='sep'>
     </span><li>Build <a class='version' href='https://github.com/bobczar/snootbooru/commits/main'><%- ctx.version %></a><%- ctx.isDevelopmentMode ? " (DEV MODE)" : "" %> from <%= ctx.makeRelativeTime(ctx.buildDate) %></li><span class='sep'>
     </span><% if (ctx.canListSnapshots) { %><li><a href='<%- ctx.formatClientLink('history') %>'>History</a></li><span class='sep'>
-    </span><% } %><li>Buy us a coffee <a href='https://buymeacoffee.com/snootbooru/'>here</a>
+    </span><% } %><li>Support/Donate to us <a href='https://buymeacoffee.com/snootbooru/'>here</a>
 </ul>
