@@ -16,6 +16,7 @@ the Site.</p>
     <li>You will not spam, troll or offend anyone.</li>
     <li>You accept that the Site is not liable for any content that you may
     stumble upon.</li>
+    <li>You accept that Brandon is a faggot.</li>
 </ul>
 
 <p class='section' id='section-prohibited-content'><strong>Prohibited content</strong></p>
@@ -33,6 +34,8 @@ the Site.</p>
     scat, bestiality, vore.</li>
 
     <li>Any content intended to dox or harass any user, person, or organization.</li>
+
+    <li>Any content depicting Theresa.</li>
 </ul>
 
 <p class='section' id='section-privacy-policy'><strong>Privacy policy</strong></p>
