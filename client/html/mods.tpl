@@ -1,9 +1,4 @@
 <div class='content-wrapper' id='mods'>
-  <head>
-    <meta http-equiv="refresh" content="0; url=https://mods.snootbooru.com/">
-    <title>Redirect to Mods Page</title>
-  </head>
-  <body>
-    <p>You are being redirected to the Mods page... Hang tight!</p>
-  </body>
+  <h1>Snootbooru Mod Repository</h1>
+  <a href='https://mods.snootbooru.com'>Test</a>
 </div>
