@@ -4,7 +4,6 @@
     <title>Redirect to Mods Page</title>
   </head>
   <body>
-    <div class='content-wrapper' id='mods'>
-      <p>You are being redirected to the Mods page... Hang tight!</p>
+    <p>You are being redirected to the Mods page... Hang tight!</p>
   </body>
 </div>
