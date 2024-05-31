@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<div class='content-wrapper' id='mods'>
 <html>
 <head>
   <meta http-equiv="refresh" content="0; url=https://mods.snootbooru.com/">
