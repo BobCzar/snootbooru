@@ -80,8 +80,7 @@ function _makeTopNavigation() {
     const ret = new TopNavigation();
     ret.add("home", new TopNavigationItem("H", "Home", ""));
     ret.add("posts", new TopNavigationItem("P", "Posts", "posts"));
-    const url = 'https://mods.snootbooru.com/';
-    ret.add("Mods", new TopNavigationItem("M", "Mods", ""));
+    ret.add("Mods", new TopNavigationItem("M", "Mods", "mods"));
     ret.add("upload", new TopNavigationItem("U", "Upload", "upload"));
     ret.add("comments", new TopNavigationItem("C", "Comments", "comments"));
     ret.add("tags", new TopNavigationItem("T", "Tags", "tags"));
