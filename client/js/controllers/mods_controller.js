@@ -1,18 +1,18 @@
 "use strict";
 
 const topNavigation = require("../models/top_navigation.js");
-const NotFoundView = require("../views/mods.js");
+const ModsView = require("../views/mods_view.js");
 
 class ModsController {
     constructor(path) {
-        topNavigation.activate("");
+        topNavigation.activate("mods");
         topNavigation.setTitle("Mods");
-        this._ModsView = new Mods_view(path);
+        this._modsView = new ModsView(path);
     }
 }
 
 module.exports = (router) => {
-    router.enter(null, (ctx, next) => {
-        ctx.controller = new ModsController(ctx.canonicalPath);
+    router.enter(["mods"], (ctx, next) => {
+        new ModsController();
     });
 };
