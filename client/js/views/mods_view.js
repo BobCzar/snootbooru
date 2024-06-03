@@ -20,7 +20,7 @@ class ModsView {
         if (this._hostNode) {
             this._hostNode.innerHTML = `
                 <div class="redirect-message">
-                    <p>Hang on, you are being redirected to the mod repository!</p>
+                    <p>Hang on, you are being redirected to the snoot mod repository!</p>
                 </div>
             `;
         }

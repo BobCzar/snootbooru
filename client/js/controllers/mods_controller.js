@@ -20,7 +20,9 @@ class ModsController {
 }
 
 module.exports = (router) => {
-    router.enter(["mods"], (ctx, next) => {
+    router.get("/mods", (req, res) => {
+        console.log('Mods route entered');
         new ModsController();
+        res.send();
     });
 };
