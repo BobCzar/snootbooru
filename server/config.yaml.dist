@@ -102,6 +102,8 @@ privileges:
     'user_tokens:delete:any':       administrator
     'user_tokens:delete:self':      regular
 
+    'mods:list'                     anonymous
+
     'posts:create:anonymous':       regular
     'posts:create:identified':      regular
     'posts:list':                   anonymous

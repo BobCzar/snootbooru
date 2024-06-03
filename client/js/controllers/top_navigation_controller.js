@@ -38,6 +38,9 @@ class TopNavigationController {
         if (!api.hasPrivilege("posts:list")) {
             topNavigation.hide("posts");
         }
+        if (!api.hasPrivilege("mods:list")) {
+            topNavigation.hide("mods");
+        }
         if (!api.hasPrivilege("posts:create")) {
             topNavigation.hide("upload");
         }
