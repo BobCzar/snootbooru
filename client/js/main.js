@@ -51,7 +51,7 @@ Promise.resolve()
             controllers.push(require("./controllers/home_controller.js"));
             controllers.push(require("./controllers/help_controller.js"));
             controllers.push(require("./controllers/auth_controller.js"));
-            controllers.push(require("./controllers/mods_controller.js"));
+            controllers.push(require("./controllers/mods_controller.js")); //mods controller
             controllers.push(
                 require("./controllers/password_reset_controller.js")
             );
