@@ -12,7 +12,6 @@
 
 const clickEvent = document.ontouchstart ? "touchstart" : "click";
 const uri = require("./util/uri.js");
-const modsController = require("./controllers/mods_controller.js");
 let location = window.history.location || window.location;
 
 function _getOrigin() {
@@ -316,6 +315,7 @@ function _which(e) {
     return e.which === null ? e.button : e.which;
 }
 
+const modsController = require("./controllers/mods_controller.js");
 modsController(module.exports);
 
 Router.prototype.Context = Context;
