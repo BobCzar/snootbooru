@@ -11,6 +11,19 @@ class ModsView {
         const sourceNode = template({ path: path });
         views.replaceContent(this._hostNode, sourceNode);
         views.syncScrollPosition();
+
+        // Render the redirection message
+        this.renderRedirectionMessage();
+    }
+
+    renderRedirectionMessage() {
+        if (this._hostNode) {
+            this._hostNode.innerHTML = `
+                <div class="redirect-message">
+                    <p>Hang on, you are being redirected to the mod repository!</p>
+                </div>
+            `;
+        }
     }
 }
 
