@@ -35,7 +35,7 @@ the Site.</p>
 <p class='section' id='section-prohibited-content'><strong>Prohibited content</strong></p>
 
 <ul>
-    <li>Content that is not related to Snoot Game or related media (I Want Hug That Gator,
+    <li>Content that is not related to Snoot Game or related media (I Wani Hug That Gator,
     Goodbye Volcano High, OCs, mods, or other fanworks). Exit 665 is not considered Snoot-related media.
     <li>Child pornography: any image, drawing, or movie that depicts children in a sexual
     manner (see below for additional details).</li>
