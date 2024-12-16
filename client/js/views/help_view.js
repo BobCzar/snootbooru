@@ -6,6 +6,7 @@ const views = require("../util/views.js");
 const template = views.getTemplate("help");
 const sectionTemplates = {
     about: views.getTemplate("help-about"),
+    donate: views.getTemplate("help-donate"),
     keyboard: views.getTemplate("help-keyboard"),
     search: views.getTemplate("help-search"),
     comments: views.getTemplate("help-comments"),
