@@ -87,6 +87,7 @@ function _makeTopNavigation() {
     ret.add("users", new TopNavigationItem("S", "Users", "users"));
     ret.add("account", new TopNavigationItem("A", "Account", "user/{me}"));
     ret.add("register", new TopNavigationItem("G", "Register", "register"));
+    ret.add("donate", new TopNavigationItem("D", "Donate", "help/donate"));
     ret.add("login", new TopNavigationItem("L", "Log in", "login"));
     ret.add("logout", new TopNavigationItem("O", "Logout", "logout"));
     ret.add("rules", new TopNavigationItem("R", "Rules", "help/tos"));
