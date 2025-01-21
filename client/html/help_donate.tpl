@@ -1,1 +1,1 @@
-<p>Donations to <%- ctx.name %> go towards offsetting server costs and are always appreciated. If you wish to donate, you can do so <a href='https://ko-fi.com/snootbooru'>here</a>.</p>
+<p>Donate to support <%- ctx.name %> <a href='https://ko-fi.com/snootbooru'>here</a>.</p>
